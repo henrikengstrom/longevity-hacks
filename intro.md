@@ -6,7 +6,7 @@ This repository contains random notes about longevity hacks. This topic is somet
 
 The idea behind this repo is two-fold;
 1. A place where I can keep track of the latest and greatest for my own book keeping
-2. A place where I can point familiy, friends, and fellow human beings who are interested in learning more
+2. A place where I can point family, friends, and fellow human beings who are interested in learning more
 
 ## references
 
