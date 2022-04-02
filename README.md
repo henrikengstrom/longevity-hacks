@@ -1,2 +1,1 @@
-# longevity-hacks
-Random notes about longevity hacks
+See [intro](intro.md)
