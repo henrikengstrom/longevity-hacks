@@ -35,5 +35,5 @@ The three pillars of longevity are not very surprising:
 * [exercise](exercise/exercise.md)
 * [nutrition](nutrition/nutrition.md)
 
-These pillars used to be envisioned to stand next to each other to form the foundation of longevity however more and more points to that the latter two are resting on the former, i.e. sleep alone stands for about 50% - the rock base upon the other two pillars stand.
+These pillars used to be envisioned to stand next to each other to form the foundation of longevity however more and more points to that the latter two are resting on the former, i.e. sleep alone stands for about 50% - the rock foundation upon the other two pillars stand.
 
